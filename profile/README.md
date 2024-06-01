@@ -8,4 +8,4 @@ Report any issues and improvement requests related to the *Props Controller* her
 Likewise, report any issues and improvement requests related to the *Props Player* here: [player issues](https://github.com/set-ops/player/issues)
 
 ## Contact
-If you have any questions that we haven't covered here, you can check out the [SetOps website](https://set-ops.com) or reach out to us: [hello@set-ops.com](mailto:hello@set-ops.com)!
+If you have any questions that we haven't covered here, you can check out the [SetOps website](https://set-ops.com) or reach out to us directly: [hello@set-ops.com](mailto:hello@set-ops.com)!
