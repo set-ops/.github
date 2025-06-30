@@ -8,7 +8,7 @@ Report any issues and improvement requests related to the *Props Controller* her
 Likewise, report any issues and improvement requests related to the *Props Player* here: [player issues](https://github.com/set-ops/player/issues)
 
 ## SetOps Continued
-*Continued* is for more than Prop Masters alone!  Stylists, Make-up Artists and Setdressers alike, share ideas or report any issues here: [Capture issues](https://github.com/set-ops/continued/issues)
+*Continued* is for more than Prop Masters alone!  Stylists, Make-up Artists and Setdressers alike, share ideas or report any issues here: [Continued issues](https://github.com/set-ops/continued/issues)
 
 ## Prop Capture
 Tell us what you'd love as new *Prop Capture* features, or report any issues here: [Capture issues](https://github.com/set-ops/capture/issues)
