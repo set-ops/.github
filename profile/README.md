@@ -6,7 +6,7 @@ View all feature ideas, improvements and open issues here: [Community board](htt
 ## Props Controller
 Report any issues and improvement requests related to the *Props Controller* here: [remote-control issues](https://github.com/set-ops/remote-control/issues)
 
-## Props Player
+## Prop Player
 Likewise, report any issues and improvement requests related to the *Props Player* here: [player issues](https://github.com/set-ops/player/issues)
 
 ## SetOps Continued
